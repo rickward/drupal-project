@@ -1,7 +1,7 @@
 {
     "name": "internal/upstream-configuration",
     "type": "project",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repositories": [
         {
             "type": "composer",
@@ -23,7 +23,9 @@
         "drush-ops/behat-drush-endpoint": "^9.3",
         "rvtraveller/qs-composer-installer": "^1.1",
         "zaporylie/composer-drupal-optimizations": "^1.0",
-        "drupal/bootstrap": "^3.21"
+        "drupal/bootstrap": "^3.21",
+        "slowprog/composer-copy-file": "^0.3.1",
+        "drupal/simplesamlphp_auth": "^3.2"
     },
     "require-dev": {
         "behat/behat": "3.*",
