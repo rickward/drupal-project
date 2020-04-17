@@ -1,7 +1,7 @@
 {
     "name": "internal/upstream-configuration",
     "type": "project",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repositories": [
         {
             "type": "composer",
